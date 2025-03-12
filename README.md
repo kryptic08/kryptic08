@@ -69,4 +69,5 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kryptic08&" alt="GitHub Streak Stats"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kryptic08&theme=dark)](https://git.io/streak-stats)
 </p>
