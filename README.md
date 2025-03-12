@@ -11,76 +11,29 @@
 - ⚡ Fun fact **I know how to solve a Rubik's Cube**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <!-- Add your social links or badges here -->
+  <!-- Add your social media icons here using Devicon or other icon libraries -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-  <!-- Blender -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353657/blender.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <!-- C++ -->
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374064/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <!-- CSS3 -->
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374094/css3.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/494308/figma.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/349425/flutter.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/474749/git.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- HTML5 -->
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374130/html5.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <!-- Adobe Illustrator -->
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/448211/adobe-illustrator.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452069/nodejs.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Adobe Photoshop -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/448254/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374550/python.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/493747/react.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374118/react-native.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/375021/tailwind-css.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374797/typescript.svg" alt="typescript" width="40" height="40"/>
-  </a>
+  <i class="devicon-blender-original" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-cplusplus-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-css3-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-figma-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-flutter-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-git-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-html5-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-illustrator-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-javascript-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-nodejs-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-photoshop-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-python-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-react-original" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-tailwindcss-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-typescript-plain" style="font-size: 40px; margin-right: 10px;"></i>
 </p>
 
 <p align="center">
