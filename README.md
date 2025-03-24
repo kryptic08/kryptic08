@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on [theinditerstracker.vercel.app](https://theinditerstracker.vercel.app)
 - 🌱 I’m currently learning **React, Laravel**
 - 👯 I’m looking to collaborate on **any projects**
-- 👨‍💻 All of my projects are available at [kirbycope.vercel.app](https://kirbycope.vercel.app)
-- 📝 I regularly write articles on [kirbycope.vercel.app](https://kirbycope.vercel.app)
+- 👨‍💻 All of my projects are available at [kirbycope.com](https://kirbycope.com)
+- 📝 I plan on writing more on [blog.kirbycope.com](https://blog.kirbycope.com)
 - 💬 Ask me about **collaborations**
 - 📫 How to reach me **copeduturtle30@gmail.com**
 - ⚡ Fun fact **I know how to solve a Rubik's Cube**
