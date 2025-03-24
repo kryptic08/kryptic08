@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirby Cope</h1>
-<h3 align="center">A curious and facinated by design ComSci Student
+<h3 align="center">A curious and facinated by design ComSci Student </h3>
 
 - 🔭 I’m currently working on [theinditerstracker.vercel.app](https://theinditerstracker.vercel.app)
 - 🌱 I’m currently learning **React, Laravel**
