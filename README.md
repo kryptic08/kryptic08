@@ -10,7 +10,7 @@
 - 📫 How to reach me **copeduturtle30@gmail.com**
 - ⚡ Fun fact **I know how to solve a Rubik's Cube**
 
-<h3 align="left">Connect with me: kirbycope.com </h3>
+<h3 align="left">Connect with me: www.kirbycope.com </h3>
 
 <p align="left"></p>
 
