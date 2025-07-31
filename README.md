@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [kirbycope.com](https://kirbycope.com)
 - 📝 I plan on writing more on [blog.kirbycope.com](https://blog.kirbycope.com)
 - 💬 Ask me about **collaborations**
-- 📫 How to reach me **copeduturtle30@gmail.com**
+- 📫 How to reach me **coding@kirbycope.com**
 - ⚡ Fun fact **I know how to solve a Rubik's Cube**
 
 <h3 align="left">Connect with me: www.kirbycope.com </h3>
